@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Here it works, but not in an existing repo...
 
 You can use the [editor on GitHub](https://github.com/jenniferarnesen/test-ghpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
